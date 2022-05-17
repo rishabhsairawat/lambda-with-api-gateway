@@ -1,6 +1,6 @@
 # lambda-with-api-gateway
 
-  * Package using   mvn clean package`
+  * Package using   `mvn clean package`
   * Upload `lambda-with-api-gateway-0.0.1-SNAPSHOT-aws.jar` to AWS lambda
   * Use `org.springframework.cloud.function.adapter.aws.FunctionInvoker` as `Handler`
   * Use API Gateway as trigger for the lambda
